@@ -1,0 +1,17 @@
+.ul {
+    margin: 0;
+} 
+.li {
+    list-style: none;
+    border: 1px solid #ccc;
+    margin-top: -1px;
+    line-height: 2;
+    padding: 5px 20px;
+    background: white;
+  }
+  input {
+    line-height: 2;
+    font-size: 18px;
+    height: auto;
+    padding-left: 20px;
+  }
